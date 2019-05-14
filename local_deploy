@@ -1,0 +1,2 @@
+mvn clean install
+cp target/modeltest.war ~/projects/apache-tomcat-9.0.19/webapps/

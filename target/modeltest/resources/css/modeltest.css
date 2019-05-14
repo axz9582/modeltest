@@ -1,0 +1,30 @@
+ 
+.red {
+	color:red;
+}
+
+.red_bg{
+	background-color:red;
+}
+.orange{
+	color:orange;
+}
+
+.orange_bg{background-color:orange;}
+
+hr{
+	color:red;
+	
+}
+
+.header_{
+	margin:40px auto;
+}
+
+.ng-invalid{
+border-color:red !important;
+}
+
+.required{
+ color:red;
+}

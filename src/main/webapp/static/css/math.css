@@ -1,0 +1,50 @@
+.site_bg{
+background-color:#90ee90;
+}
+.active{
+color:red;
+background-color:#ffffff;
+}
+li.active a{
+color:#6e006e;
+}
+
+.small_icon{
+width:32px;
+height:32px;
+}
+.small_icon_9{
+width:144px;
+height:16px;
+}
+
+
+.small_icon_3{
+height:30px;
+width:75px;
+}
+
+.middle_size{
+width:70%;
+margin:auto;
+}
+
+.navbar-brand{
+ color:green;
+}
+
+.ng-invalid{
+border-color:red;
+}
+
+.required{
+ color:red;
+}
+
+.banner{
+	color:green;
+}
+
+.navbar-toggle{
+	background-color:#9acd32 !important;
+}

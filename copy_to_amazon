@@ -1,0 +1,3 @@
+cd target
+~/bin/scpfile amitymathacademy.war
+cd ..
